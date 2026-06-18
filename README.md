@@ -1,0 +1,1 @@
+A Python and SQL-based Retail Price Optimization Platform that analyzes sales data, compares machine learning models, and generates pricing recommendations to help businesses improve profitability and make data-driven decisions.
